@@ -1,0 +1,26 @@
+{
+  "name": "nodeweb",
+  "version": "1.0.0",
+  "description": "Nodejs Website",
+  "main": "start.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://liuzhenwei@github.com/liuzhenwei/NodeWeb.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "website"
+  ],
+  "author": "liuzhenwei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liuzhenwei/NodeWeb/issues"
+  },
+  "homepage": "https://github.com/liuzhenwei/NodeWeb#readme",
+  "dependencies": {
+    "connect": "^3.4.1"
+  }
+}
